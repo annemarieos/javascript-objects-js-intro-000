@@ -1,4 +1,3 @@
-var playlist = {
-  Kodaline: 'High Hopes',
+var playlist = {Kodaline: 'High Hopes',
   James Vincent McMarrow: 'Higher Love'
 }
