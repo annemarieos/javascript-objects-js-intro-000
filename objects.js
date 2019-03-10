@@ -1,3 +1,2 @@
 var playlist = {Kodaline: 'High Hopes',
-  James Vincent McMarrow: 'Higher Love'
-}
+  James Vincent McMarrow: 'Higher Love'}
